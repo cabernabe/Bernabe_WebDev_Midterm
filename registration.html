@@ -6,7 +6,7 @@
   <title></title>
 </head>
 <body>
-  
+ 
     <fieldset>
       
       <h1>Create Account </h1>
@@ -15,21 +15,69 @@
         
       <input type="firstname" id="txtfirstname" placeholder="First Name"/>
       <input type="middleinitial" id="txtmiddleinitial" placeholder="Middle Initial"/>
-     
+     <h4>Password</h4>
+        <hr>
+        <input type="password" id="txtPassword" placeholder="Enter your password"/>
+        <input type="password" id="txtPassword" placeholder="Confirm Password"/>
+        </hr>
      <h4>Age</h4>
         <input type="age" id="txtage">
         <h4>Date of Birth</h4>
         <input type="month" id="txtbirthmonth" placeholder="Month"/>
-        <input type="Day" id="txtbirthday" placeholder="Day"/>
+        <select name="drpcolors" id="drpcolors">
+          <option value="1">1</option>
+          <option value="2">2</option>
+          <option value="3">3</option>
+          <option value="5">5</option>
+          <option value="6">6</option>
+          <option value="7">7</option>
+          <option value="8">8</option>
+          <option value="9">9</option>
+          <option value="10">10</option>
+          <option value="11">11</option>
+          <option value="12">12</option>
+          <option value="13">13</option>
+          <option value="14">14</option>
+          <option value="15">15</option>
+          <option value="16">16</option>
+          <option value="17">17</option>
+          <option value="18">18</option>
+          <option value="19">19</option>
+          <option value="20">20</option>
+          <option value="21">21</option>
+          <option value="22">22</option>
+          <option value="23">23</option>
+          <option value="24">24</option>
+          <option value="25">25</option>
+          <option value="26">26</option>
+          <option value="27">27</option>
+          <option value="28">28</option>
+          <option value="29">29</option>
+          <option value="30">30</option>
+          <option value="31">31</option>                
+    </select>
         <h4>Birth Place</h4>
         <input type="birthplace" id="txtbirthplace" />
         <hr>
         <h4> Sex </h4>
-        <input type="radio" name="radbtn" id="radm" selected="sekected"/>
+        <input type="radio" name="radbtn" id="radm" selected="selected"/>
         <label for="radm">Male</label>
         <input type="radio" name="radbtn" id="radf" selected="selected"/>
         <label for="radf">Female</label>
-        </hr>   
+        </hr> 
+      <hr>
+      <h4>Educational Attainment</h4>
+        <input type="checkbox" name="cBox" id="Checkbox1"  selected="selected" />
+      <label for="Checkbox">Elementary Graduate</label>
+      <input type="checkbox"  name="cBox" id="CheckBox2" selected="selected"/>
+      <label for="Checkbox2">High School Graduate</label>
+      <input type="checkbox" name="cBox" id="Checkbox3"  selected="selected"/>
+      <label for="Checkbox3">College Graduate</label>
+       </hr> 
+  <hr>
+  <button type="reset" Onclick="alert('Reset')">Reset </button>
+  <button type="confirm" Onclick="alert('Confirm')">Confirm</button>
+  </hr>
       </fieldset> 
 </body>
 </html>
