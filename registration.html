@@ -1,26 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>Registration Form</title>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=">
   <title></title>
 </head>
 <body>
  
-    <fieldset>
-      
-      <h1>Create Account </h1>
+    <fieldset style="background-color:##FFC0CB">
+      <p>
+        Note:"This registration form contains all the basic information about yourself.(All the information will be keep in private)"
+      </p>
+      <h1>Registration Form </h1>
       <h4>Name<h4/>      
       <input type="lastname" id="txtlastname" placeholder="Last Name"/>
         
       <input type="firstname" id="txtfirstname" placeholder="First Name"/>
       <input type="middleinitial" id="txtmiddleinitial" placeholder="Middle Initial"/>
      <h4>Password</h4>
-        <hr>
+        
         <input type="password" id="txtPassword" placeholder="Enter your password"/>
         <input type="password" id="txtPassword" placeholder="Confirm Password"/>
-        </hr>
+        
      <h4>Age</h4>
         <input type="age" id="txtage">
         <h4>Date of Birth</h4>
@@ -59,14 +60,18 @@
     </select>
         <h4>Birth Place</h4>
         <input type="birthplace" id="txtbirthplace" />
-        <hr>
+        
+      <h4> Email</h3>
+      <input type="email" id="emailbox" placeholder="user@yahoo.com"/>
+        <h4>Phone Number </h4>
+        <input type="tel" id="phone" name="phone" placeholder="+63 9123456789" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"/>
         <h4> Sex </h4>
         <input type="radio" name="radbtn" id="radm" selected="selected"/>
         <label for="radm">Male</label>
         <input type="radio" name="radbtn" id="radf" selected="selected"/>
         <label for="radf">Female</label>
-        </hr> 
-      <hr>
+        
+      
       <h4>Educational Attainment</h4>
         <input type="checkbox" name="cBox" id="Checkbox1"  selected="selected" />
       <label for="Checkbox">Elementary Graduate</label>
@@ -74,11 +79,12 @@
       <label for="Checkbox2">High School Graduate</label>
       <input type="checkbox" name="cBox" id="Checkbox3"  selected="selected"/>
       <label for="Checkbox3">College Graduate</label>
-       </hr> 
+       
   <hr>
   <button type="reset" Onclick="alert('Reset')">Reset </button>
-  <button type="confirm" Onclick="alert('Confirm')">Confirm</button>
+  <button type="sumbit" value="Submit" Onclick="alert('Submit')">Submit</button>
   </hr>
+
       </fieldset> 
 </body>
 </html>
