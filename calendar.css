@@ -1,0 +1,46 @@
+body{
+  background: #d789d7;
+	font:sans-serif;
+	margin: 100;
+  center: 500px;
+  
+}
+
+
+.month{
+  font:Arial;
+  font-size:2em;
+  position:fixed;
+  left:350px;
+}
+
+.days{
+  backgroynd
+  font-weight: bold;
+  
+}
+
+.calendar{
+  background:#fab7b7;
+  border-radius: 1em 1em 1em 1em;
+  border-spacing: 10px;
+  font-weight: simple;
+  top: 50px;
+  position: fixed;
+  left: 270px;
+}
+
+.daybirth{
+  font-weight:bold;
+  
+}
+td{
+  background:#f3e1e1;
+}
+.prev-month,.next-month{
+  color:#f9b384;
+  
+}
+.sunday{
+  color:#f40552;
+}
