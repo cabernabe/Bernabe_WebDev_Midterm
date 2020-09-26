@@ -1,0 +1,80 @@
+html{
+  font-family:arial;
+}
+.gmail{
+  text-align:right;
+}
+.appimage{
+    width : 20px;
+    height : 20px;
+  margin-left: 10px;
+}
+.userimage{
+    width : 30px;
+    height : 30px;
+  margin-left: 10px;
+}
+.centerall{
+  text-align:center;
+}
+.gmailtext{
+  margin-right:8px;
+}
+img {
+    width : 300px;
+    height : 200px;
+}
+.centerall{
+  text-align: center;
+}
+.search{
+  width: 600px;
+  height:30px;
+  border: 1px solid ;
+  border-width: thin;
+  border-style:inset;
+}
+.lang{
+  margin-top:30px;
+}
+.fili{
+  margin-right: 8px;
+  margin-left: 8px;
+  font-size: 1em;
+  color: blue;
+}
+
+.ceb{
+  font-size: 1em;
+  color:blue;
+}
+
+.buttons{
+  margin-top: 30px;
+}
+
+.gsearch{
+  height: 35px;
+  margin-right: 10px;
+}
+
+.feel{
+  height: 35px;
+}
+
+
+.search{
+  background-image: url('https://cabernabe.github.io/Bernabe_WebDev_Midterm/act46/edited_search.png');
+  position: right;
+  background-size:45px;
+  background-repeat: no-repeat;
+  border-radius: 20px;
+}
+
+.voice{
+  position: absolute;
+  right: 235px;
+  height: 20px;
+  width: 30px;
+  padding-top: 5px;
+}
