@@ -1,0 +1,38 @@
+body{
+  background-image:url('https://cabernabe.github.io/Bernabe_WebDev_Midterm/act47/background.jpg');
+}
+.container{
+  text-align: center;
+}
+.tributetxt{
+  font-size: 1em;
+}
+h1 em{ 
+  font-size: 4rem;
+}
+
+.motherpic{
+  width: 400px;
+  border-style: double;
+  border-radius:20px;
+}
+
+.poemtitle{
+  font-size: 2em;
+}
+.message{
+  text-align: center;
+  font-weight: bold;
+}
+.containermessage{
+    position: absolute;
+    float : inherit;
+    width : 400px;
+    background-color : #D0D0D0 ;
+    border : 3px solid #A8A8A8;
+    top: 1200px;
+    left: 46.5%;
+    margin: -150px;
+    border-radius: 20px;
+}
+ 
