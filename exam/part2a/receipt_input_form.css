@@ -1,0 +1,143 @@
+body{
+  border:solid;
+  width: 1000px;
+  height: 430px;
+}
+.receipt{
+  margin-left:10px;
+  padding-top:10px;
+  color:blue;
+  font-family:arial;
+  font-size: 30px;
+}
+.date{
+  margin-left:200px;
+  
+}
+.dateinput{
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+.noinput{
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+.no{
+  margin-left:200px;
+}
+.receive{
+  margin-top:200px;
+}
+.recieve{
+  margin-left: 10px;
+}
+
+.receiveinput{
+  width:500px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+
+.amount{
+  margin-left:50px;
+}
+
+.amountinput{
+  width:200px;
+  
+  
+}
+
+.amount1{
+  margin-left: 10px;
+  
+}
+
+.amount1input{
+  width:800px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+
+.dollars{
+  margin-left: 20px;
+}
+
+.forpayment{
+  margin-left: 10px;
+}
+
+.paymentinput{
+  width:753px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+.checkbox{
+  text-align:right;
+}
+
+.from{
+  margin-left: 75px;
+}
+
+.paid{
+  margin-left: 150px;
+}
+
+.frominput{
+  width:250px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+.toinput{
+  width:250px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+
+.cashcheck{
+  margin-right:70px;
+  
+}
+
+.checkcheck{
+  margin-right:33px;
+}
+
+.moneycheck{
+  margin-right:15px;
+}
+
+.receivedby{
+  margin-left:10px;
+}
+
+.receivedbyinput{
+  width: 546px;
+  border-bottom:1px solid;
+  border-top:1px;
+  border-right:1px;
+  border-left:1px;
+}
+
+.table1{
+  position: absoulte;
+  border: 1px black;
+  right: 750px;
+  width: 300px;
+  margin-left:650px;  
+}
