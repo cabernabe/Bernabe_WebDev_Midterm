@@ -1,0 +1,93 @@
+body{ 
+background-color:white;
+}
+
+.proof1 {
+  background: url('https://cabernabe.github.io/Bernabe_WebDev_Midterm/exam/part2b/image/background1.jpg');
+    background-color: #C1C1C1;
+    margin: 0px 0 20px 0;
+    padding: 20px;
+}
+
+h1,h3{
+  color:black;
+}
+.profile{
+  width:350px;
+}
+
+img {
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 2em;
+  border-radius:20px;
+}
+
+.proof2 {
+   background: url('https://cabernabe.github.io/Bernabe_WebDev_Midterm/exam/part2b/image/background1.jpg');
+    background-color: #AAAAAA;
+    margin: 0px 0 20px 0;
+    padding: 20px;
+}
+
+.firstimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.secondimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+ margin-left:300px;
+}
+
+.thirdimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.fourthimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.fifthimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.sixthimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.seventhimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.eighthimage{
+  width:300px;
+  height:200px;
+  border-radius:20px;
+  margin-left:300px;
+}
+
+.firstpictext{
+  position: absolute;
+  margin-left:20px;
+  
+}
