@@ -24,7 +24,8 @@ position:absolute;
 }
 
 .card{
-  width:2000px;
+  width:1500px;
+  margin-left:80px;
 }
 
 .tableelements{
