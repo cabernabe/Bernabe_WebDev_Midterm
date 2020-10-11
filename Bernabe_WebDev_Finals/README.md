@@ -4,6 +4,10 @@ What is your COVID-19 web app name?
 What is your motivation?
 •	My motivation in creating this web page is the people who are suffering in accessing website that contains information about this kind of pandemic, I just want to help them to inform on what is happening today in the world and also help them a way to survive in this pandemic.
 
+Link to your Sitemap, Wireframe, and Video Pitch
+•https://drive.google.com/file/d/1-SKs2isX4h91fTMiNKRxkAcTwinhsQ-8/view?usp=sharing
+•https://drive.google.com/file/d/1FWhwZhG6OCBW4_Mc48KEilcNcFeaN0Dj/view?usp=sharing
+•https://drive.google.com/file/d/1y-AFZakKJmP_Xl1_uRSPWtCDrQB30qdo/view?usp=sharing
 
 What are the web tools you used to create your web app?
 •	Web tool that I used is codepen and the help of bootstrap it makes easier to make web page that exactly what I want.
