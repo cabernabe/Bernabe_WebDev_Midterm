@@ -1,0 +1,47 @@
+.list-unstyled{
+  padding: 50px;
+  margin-left: 100px;
+}
+
+.media{
+  margin-top: 40px;
+}
+
+#btn-style{
+  margin-left:20px;
+}
+
+.title-article
+{
+  text-align:center;
+  margin-top:40px;
+}
+.mr-3{
+  height:300px;
+}
+
+.form-control{
+  width:300px;
+}
+
+.para{
+  color:black;
+}
+
+.m19logo{
+  width:200px;
+}
+
+.text-title{
+  font-size: 3em;
+  
+}
+
+.foot{
+  background-color:#d6d2c4;
+  margin-top: 30px;
+  text-align:center;
+}
+.logo{
+  background-color: #f7dad9;
+}
