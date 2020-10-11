@@ -1,0 +1,27 @@
+.text-header{
+  padding:10px;
+  margin-top:100px;
+  margin-left:50px;
+}
+
+.m19logo{
+  width:200px;
+}
+
+.text-title{
+  font-size: 3em;
+  
+}
+
+.text-header{
+  text-align: center;
+}
+
+.foot{
+  background-color:#d6d2c4;
+  margin-top: 30px;
+  text-align:center;
+}
+.logo{
+  background-color: #f7dad9;
+}
