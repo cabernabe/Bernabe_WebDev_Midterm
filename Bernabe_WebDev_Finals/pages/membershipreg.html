@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=">
+  <title></title>
+</head>
+<body>
+  <div class="logo">
+   <img src="https://cabernabe.github.io/Bernabe_WebDev_Midterm/Bernabe_WebDev_Finals/assets/m19_logo.png" class="m19logo">
+  <a class="text-title"><b>Module 19</b></a>
+  </div>
+ <form>
+    <fieldset>
+      <p>
+        Note:"This registration form contains all the basic information about yourself.(All the information will be keep in private)"
+      </p>
+      <h1>Registration Form </h1>
+      <h4>Name<h4/>      
+      <input type="text" id="txtlastname" placeholder="Last Name" required/>
+        
+      <input type="text" id="txtfirstname" placeholder="First Name"  required/>
+      <input type="text" id="txtmiddleinitial" placeholder="Middle Initial" required  />
+     <h4>Password</h4>
+        
+        <input type="password" id="txtPassword1" placeholder="Enter your password"  minlength="8" required/>
+        <input type="password" id="txtPassword2" placeholder="Confirm Password" minlength="8"  required/>
+        <div>
+          <p class="paragraph">Minimum of<b> 8 characters<b/></p>
+        </div>
+        
+     <h4>Age</h4>
+        <input type="number" id="age" min="0" max="100" value="" required>
+        <h4>Date of Birth</h4>
+        <input type="date" id="txtbirthmonth" placeholder="Month" required/>
+    
+        <h4>Birth Place</h4>
+        <input type="text" id="txtbirthplace" required/>
+        
+      <h4> Email</h3>
+      <input type="email" id="mail" placeholder="user@yahoo.com" required/>
+        <h4>Phone Number </h4>
+        <input type="tel" id="phone" name="phone" placeholder="+63 9123456789" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required/>
+        <h4> Sex </h4>
+        <input type="radio" name="radbtn" id="radm" selected="selected" required/>
+        <label for="radm">Male</label>
+        <input type="radio" name="radbtn" id="radf" selected="selected" required/>
+        <label for="radf">Female</label>
+              
+  <hr>
+  <button type="reset" class="resetbutton" Onclick="alert('Reset')">Reset </button>
+  <button  class="submitbutton">Submit</button>
+  </hr>
+
+      </fieldset> 
+  </form>
+  
+</body>
+</html>
