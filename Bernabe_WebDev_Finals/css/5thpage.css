@@ -1,0 +1,64 @@
+.m19logo{
+  width:200px;
+}
+
+.text-title{
+  font-size: 3em;
+  
+}
+
+.text-header{
+  text-align: center;
+  margin: 50px;
+}
+
+.m19logo-contact{
+  margin-left:100px;
+}
+
+.form-control-contact{
+  width:700px;
+margin-left:200px;
+}
+
+
+.from-contact{
+  font-size: 1.5em;
+}
+
+.to-contact{
+  margin-left:737px;
+  font-size: 1.5em;
+}
+
+.subject-contact{
+  margin-left:720px;
+  font-size: 1.5em;
+}
+
+.form-control-subject{
+  width:700px;
+  height:400px;
+margin-left:165px;
+  margin-top: 50px;
+}
+
+#btn{
+  margin-top: 40px;
+  margin-left: 1300px;
+}
+
+.foot{
+  background-color:#d6d2c4;
+  margin-top: 30px;
+  text-align:center;
+}
+
+.logo{
+  background-color: #f7dad9;
+}
+
+
+#btn-style{
+  margin-left:20px;
+}
