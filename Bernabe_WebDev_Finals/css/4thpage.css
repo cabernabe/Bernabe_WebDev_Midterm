@@ -1,0 +1,56 @@
+.map-container-5{
+overflow:hidden;
+padding-bottom:56.25%;
+position:relative;
+height:0;
+
+}
+.map-container-5 iframe{
+left:0;
+top:0;
+height:100%;
+width:100%;
+position:absolute;
+}
+
+.mb-0{
+  text-align:center;
+  font-family:'Ubuntu',san-serif;
+  font-size:50px;
+}
+.col-md-6{
+  margin-top:100px;
+  
+}
+
+.card{
+  width:2000px;
+}
+
+.tableelements{
+  text-align:right;
+  margin-right:300px;
+  margin-top: 30px;
+}
+
+.m19logo{
+  width:200px;
+}
+
+.text-title{
+  font-size: 3em;
+  
+}
+.logo{
+  background-color: #f7dad9;
+}
+
+.foot{
+  background-color:#d6d2c4;
+  margin-top: 30px;
+  text-align:center;
+}
+
+#btn-style{
+  margin-left:20px;
+}
